@@ -1,6 +1,6 @@
 # RL Learns Adding
 
-Teaching a computer to program (in a subset of Python) using reinforcement learning.
+Teaching a small Neural Network to program (in a subset of Python) using reinforcement learning.
 An agent learns to generate short Python programs that solve simple tasks.
 
 ## Environments
